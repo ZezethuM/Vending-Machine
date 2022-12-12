@@ -1,0 +1,12 @@
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/bin/Debug/net6.0/MachineFunction.deps.json
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/bin/Debug/net6.0/MachineFunction.dll
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/bin/Debug/net6.0/ref/MachineFunction.dll
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/bin/Debug/net6.0/MachineFunction.pdb
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/obj/Debug/net6.0/MachineFunction.csproj.AssemblyReference.cache
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/obj/Debug/net6.0/MachineFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/obj/Debug/net6.0/MachineFunction.AssemblyInfoInputs.cache
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/obj/Debug/net6.0/MachineFunction.AssemblyInfo.cs
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/obj/Debug/net6.0/MachineFunction.csproj.CoreCompileInputs.cache
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/obj/Debug/net6.0/MachineFunction.dll
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/obj/Debug/net6.0/ref/MachineFunction.dll
+/home/codex/My files/c-sharp_projects/VendingMachine/MachineFunction/obj/Debug/net6.0/MachineFunction.pdb
