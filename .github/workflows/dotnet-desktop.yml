@@ -20,10 +20,10 @@ jobs:
     - name: Test
       run: dotnet test ./MachineFunction.Tests/
     - name: Restore dependencies
-      run: dotnet restore ./src/MachineFunction
+      run: dotnet restore ./src/VendingMachine
     - name: Build
-      run: dotnet build --no-restore /p:ContinuousIntegrationBuild=true ./src/MachineFunction
+      run: dotnet build --no-restore /p:ContinuousIntegrationBuild=true ./src/VendingMachine
     - name: Test
-      run: dotnet test --no-build --verbosity normal /p:CollectCoverage=true /p:CoverletOutputFormat=opencover ./src/MachineFunction
+      run: dotnet test --no-build --verbosity normal /p:CollectCoverage=true /p:CoverletOutputFormat=opencover ./src/VendingMachine
     - name: Codecov
       uses: codecov/codecov-action@v1
