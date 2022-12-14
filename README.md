@@ -1,4 +1,5 @@
 # Vending-Machine
-![VendingMachineUMl](https://user-images.githubusercontent.com/95750574/207688210-0422331e-5ad1-4453-bff6-b27577c94e10.png)
+![VendingMachineUML](https://user-images.githubusercontent.com/95750574/207688641-927ffc4b-26cc-4521-89b2-36105c487896.png)
+
 
 [![.NET](https://github.com/ZezethuM/Vending-Machine/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/ZezethuM/Vending-Machine/actions/workflows/dotnet-desktop.yml)
